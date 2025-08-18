@@ -1,4 +1,4 @@
-# Red Team Projects
+# CrimsonProjects
 
 A collection of offensive security and cybersecurity projects for learning and portfolio purposes.  
 
